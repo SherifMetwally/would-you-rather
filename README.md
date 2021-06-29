@@ -10,8 +10,6 @@
 
 `npm start`
 
-# 4. Have fun!
-
 ## How to Play
 
 ## Game Features

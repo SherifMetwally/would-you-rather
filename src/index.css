@@ -1,0 +1,156 @@
+
+
+.dark {
+  background-color: black;
+}
+
+.nav-link {
+  color: orange;
+}
+
+.fa-user:before {
+  font-size:100pt;
+  margin-top:10px;
+}
+
+.loginIcon {
+  padding:10px;
+}
+
+.card-box {
+  display:flex;
+  flex-direction: column;
+  padding:10px;
+  border-bottom: 1px orange solid;
+}
+
+.logo {
+  width:50%;
+  height: 50%;;
+}
+
+.poll-body {
+  display: flex;
+  padding: 10px;
+}
+
+.poll-avatar {
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+}
+
+.poll-avatar-body {
+  padding: 0px 10px 0px 30px;
+  width: 140px;
+}
+
+.poll-question {
+  margin-bottom: 20px;
+}
+
+.question-avatar {
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+}
+
+.question-avatar-body {
+  display: flex;
+  width: 140px;
+  padding: 0px 10px 0px 0px;
+}
+
+.poll-answer {
+  border: 1px solid #aaaaaa;
+  border-radius: 3px;
+  padding: 10px;
+  display: grid;
+  margin: 0px 0px 10px 0px;
+}
+
+
+
+.user-rank {
+  
+  padding: 5px 60px;
+  color: black;
+  font-weight: bold;
+  font-size: 3em;
+  background-color: #f19808;
+}
+
+
+
+.side-box {
+  padding: 0px 0px 0px 10px;
+  width: 100%;
+}
+
+
+.result-avatar {
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  margin: 70px 0px 0px 0px;
+}
+
+.answered-poll {
+  border: 2px solid black !important;
+  background: orange;
+}
+
+.answered-poll-container {
+  position: absolute;
+  background: orange;
+  right: 1em;
+  border-radius: 50%;
+  padding: 15px 10px 15px 10px;
+  top: 4em;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+  background-color: black;
+  color: #f19808;
+}
+
+.answered-poll-container-option {
+  position: absolute;
+  background: orange;
+  right: 1em;
+  border-radius: 50%;
+  padding: 15px 10px 15px 10px;
+  top: 15.5em;
+}
+
+.answered-poll-label {
+  font-size: 0.8em;
+  font-weight: bold;
+}
+
+
+.lead-board {
+  padding: 10px;
+  width: 300px;
+}
+
+.lead-avatar-body {
+  padding: 0px 10px 0px 10px;
+}
+.lead-score {
+  margin-left: 10px;
+  width: 90px;
+  border: 1px solid #dad7d7;
+}
+
+
+
+.score {
+  color: white;
+  font-weight: bold;
+}
+
+.logout-btn {
+  background: transparent;
+  border: 0;
+}

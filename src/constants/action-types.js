@@ -1,0 +1,9 @@
+export const userRecieved = 'userRecieved';
+export const assignAnswer = 'assignAnswer';
+export const assignQuestion = 'assignQuestion';
+export const getQuestion = 'getQuestion';
+export const addQuestion = 'addQuestion';
+export const addQuestionResponse = 'addQuestionResponse';
+export const setUser = 'setUser';
+export const logout = 'logout';
+export const callBackLink  = 'CallBackLink';
